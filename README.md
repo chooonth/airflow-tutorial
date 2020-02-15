@@ -3,6 +3,7 @@ Airflow tutorial
 
 This is the code for [Apache Airflow Tutorials](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2) playlist by Tuan Vu on Youtube
 
+* https://docs.google.com/document/d/161vR0738zvII0kQQBp7fXPymoUCXYhNOH03JtmIDyLs/edit
 * https://www.applydatascience.com/airflow/writing-your-first-pipeline/
 
 ## Contents
